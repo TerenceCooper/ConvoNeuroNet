@@ -1,8 +1,12 @@
-*/train*
-*/test*
-*/extra*
-*/talking_data*
+# tensorboard log directory
+/summaries
+/train
+/test
+/extra
+/talking_data
 */single_digit*
+*png
+*jpg
 *mat
 *tar
 *gz

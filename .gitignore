@@ -1,5 +1,8 @@
 # tensorboard log directory
 /summaries
+checkpoint
+*mdl
+*meta
 /train
 /test
 /extra

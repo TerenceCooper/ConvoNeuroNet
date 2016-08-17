@@ -1,7 +1,7 @@
 # ConvoNeuroNet
 The required packages and libraries are all in terence_env.yml  
 My own enviroment:  
-   OS: GNU/Linux 3.16.0-4-amd64 x86_64 Debian.jessie 
+   OS: GNU/Linux 3.16.0-4-amd64 x86_64 Debian.jessie  
    python version: anaconda 1.4.0  
    	  	   python 2.7.12  
 ## Download The Dataset  
